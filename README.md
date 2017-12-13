@@ -7,7 +7,9 @@ Decision tree:
 
 
 Prediction rate:
+           
            No     Yes 
+           
            813    69 
 
 Variable importance: 
