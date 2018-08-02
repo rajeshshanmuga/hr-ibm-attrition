@@ -105,14 +105,12 @@ Other important factors:
 
 
 Conclusions & Recommendations
+
 • The main general reason behind attrition is most likely the effort-reward imbalance. In this case, this mostly applies to people who are working overtime and who in many cases have a relatively low salary - it should be checked whether there is an effective overtime policy in our company;
 
 • Our simple decision tree shows that further solutions may not lie uniquely in people getting higher salaries (or their overtime pay). Those with relatively higher salaries may be interested in something more than just a paycheck, and might still leave if they do not feel part of the company (e.g. if they don't have any stock options, or if they don't have access to trainings);
 
 • We have also found that different facets of work-life balance might represent an issue for our employees (a finding supported by visualizations and (at least to some extent) our best algorithm). One of the things that should be checked is e.g. whether there is a lack of certain teleworking arrangements in our company;
 
-• There seems to be a link between attrition and age as well as the number of companies worked for. At this point, we cannot provide more information and it would be necessary to delve deeper into our dataset, e.g. to ascertain whether this is not simply linked to retirements or to see whether there is an unfair treatment of certain age groups and whether specific part of our workforce is in need of an intervention (e.g. more job security, upskilling, etc.).
-
-• If we take our "test" set as an example of IBM's current workforce, we can say that the job role with highest probability of attrition is sales representative - something should be definitely done about that, and we could explore further what exactly.
 
 
